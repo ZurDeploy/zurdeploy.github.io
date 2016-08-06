@@ -1,6 +1,7 @@
 baseurl = "http://zurdeploy.ru"
 languageCode = "ru-ru"
 title = "Техническая поддержка сайтов | Удаленное администрирование | ZurDeploy"
+theme = "landing-page-hugo"
 
 [params]
 name = "ZurDeploy"
