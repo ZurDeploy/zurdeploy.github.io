@@ -1,0 +1,24 @@
+baseurl = "http://zurdeploy.ru"
+languageCode = "ru-ru"
+title = "Техническая поддержка сайтов | Удаленное администрирование | ZurDeploy"
+
+[params]
+name = "ZurDeploy"
+description = "Devops consulting. Cloud automation." 
+email = "info@zurdeploy.ru"
+googleAnalytics = "UA-43321747-2"
+
+# Hero section
+[params.hero]
+slogan     = "ZurDeploy"
+subtitle   = "Devops consulting. Cloud automation"
+
+[[params.social]]
+title = "Напишите нам"
+icon = "envelope-o"
+url = "mailto:info@zurdeploy.ru"
+
+[[params.social]]
+title = "+7 (905) 318-90-02"
+icon = "phone"
+url = "tel:+7-905-318-90-02"

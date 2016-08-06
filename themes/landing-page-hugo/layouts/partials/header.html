@@ -1,0 +1,28 @@
+<section id="intro">
+	<!-- Header -->
+	<div class="intro-header">
+
+	    <div class="container">
+
+		<div class="row">
+		    <div class="col-lg-12">
+			<div class="intro-message">
+                            <img src="../images/logo.png" class="logo">
+			    <h1>{{ .Site.Params.name }}</h1>
+			    <h3>{{ .Site.Params.description }}</h3>
+			    <hr class="intro-divider">
+			    {{ if isset .Site.Params "social" }}
+			    <ul class="list-inline intro-social-buttons">
+				        {{ partial "social.html" . }}
+			    </ul>
+			    {{ end }}
+			</div>
+		    </div>
+		</div>
+
+	    </div>
+	    <!-- /.container -->
+
+	</div>
+	<!-- /.intro-header -->
+</section>
