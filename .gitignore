@@ -1,5 +1,2 @@
 *~
 *.swp
-
-# Hugo generates site into this dir
-public/
