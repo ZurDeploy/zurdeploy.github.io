@@ -18,8 +18,3 @@ subtitle   = "Devops consulting. Cloud automation"
 title = "Напишите нам"
 icon = "envelope-o"
 url = "mailto:info@zurdeploy.ru"
-
-[[params.social]]
-title = "+7 (905) 318-90-02"
-icon = "phone"
-url = "tel:+7-905-318-90-02"
