@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Техническая поддержка сайтов | Удаленное администрирование | ZurDeploy</title>
-    <link>http://zurdeploy.ru/</link>
+    <link>http://zurdeploy.ru/index.xml</link>
     <description>Recent content on Техническая поддержка сайтов | Удаленное администрирование | ZurDeploy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
